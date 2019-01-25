@@ -3,11 +3,10 @@
 .AppleDouble
 .LSOverride
 
-### Django ###
-__pycache__
-migrations
+### Jupyter ###
+.ipynb_checkpoints
 
-db.sqlite3
+
 *.log
 *.pyc
 /venv
