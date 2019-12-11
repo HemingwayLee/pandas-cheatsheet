@@ -11,8 +11,13 @@ pip3 install ipython
 jupyter notebook
 ```
 
-# Why pandas  
-It offers data structures and operations for manipulating numerical tables and time series.
+# Introduction  
+* It offers data structures and operations for manipulating numerical tables and time series
+* it is on top of `numpy`
+
+## `numpy`
+* It is a more basic library that provides the building blocks of array based data manipulation
+* It is more efficient than python list (In CPython, lists are arrays of pointers) 
 
 ## Data Structure  
 DataFrame
