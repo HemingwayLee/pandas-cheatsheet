@@ -45,7 +45,9 @@ typedef struct {
 
 ### internal implementation
 * python list
+![list](list_structure.png)
 * numpy array
+![numpy](array_structure.png)
 
 ## Data Structure  
 DataFrame
