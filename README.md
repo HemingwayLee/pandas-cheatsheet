@@ -43,6 +43,10 @@ typedef struct {
   * `Jython` uses an `ArrayList<PyObject>`
 * It provides other functionalities (e.g., FFT, convolution, reshape, ...)
 
+### internal implementation
+* python list
+* numpy array
+
 ## Data Structure  
 DataFrame
 
