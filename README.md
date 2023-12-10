@@ -1,14 +1,20 @@
 # pandas-cheatsheet
 
+# Run locally without docker
 ## install
 ```
-pip3 install jupyter
-pip3 install ipython
+pip3 install -r requirements.txt
 ```
 
 ## run 
 ```
 jupyter notebook
+```
+
+# Run with docker
+```
+docker build -t mypandas .
+docker run -it --rm -p 8888:8888 mypandas
 ```
 
 # Introduction  
